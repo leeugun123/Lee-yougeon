@@ -7,7 +7,6 @@
 
 ## 스킬
 
-![JAVA](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java%20&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin%20&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
-
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=FFFFFF)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=FFFFFF)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF)
